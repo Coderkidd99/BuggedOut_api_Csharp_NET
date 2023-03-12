@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\bekim\Desktop\TMA\ResumeProjects\issue_tracker_api\.github\workflows\main_burimi-issuetracker-api.yml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>

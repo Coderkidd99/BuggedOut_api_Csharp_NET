@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ASora+YPTmMqZ/CyzPu5IBtm+CwFkc5XQcv0TjTDKjQ=",
+  "Source": "issue_tracker_api",
+  "BasePath": "_content/issue_tracker_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
